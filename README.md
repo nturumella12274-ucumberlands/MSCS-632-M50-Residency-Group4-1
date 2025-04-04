@@ -17,16 +17,19 @@ This is a simple text chat application implemented in Rust using asynchronous pr
 ### Running the Application
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:nturumella12274-ucumberlands/MSCS-632-M50-Residency-Group4-1.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd text_chat_app
+   cd MSCS-632-M50-Residency-Group4-1
    ```
 3. Run the application:
    ```bash
    cargo run
    ```
 
+## Repository
+This project is hosted at: https://github.com/nturumella12274-ucumberlands/MSCS-632-M50-Residency-Group4-1
+
 ## License
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
