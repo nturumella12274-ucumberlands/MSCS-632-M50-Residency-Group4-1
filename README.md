@@ -30,6 +30,3 @@ This is a simple text chat application implemented in Rust using asynchronous pr
 
 ## Repository
 This project is hosted at: https://github.com/nturumella12274-ucumberlands/MSCS-632-M50-Residency-Group4-1
-
-## License
-This project is licensed under the MIT License.
